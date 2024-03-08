@@ -9,15 +9,17 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 
 ## Présentation de l'équipe
 
-|( )| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
+|(^_^)| (づ｡◕‿‿◕｡)づ |(>_<) | (＾▽＾) |
 |-----|--|--|--|
 | H. Takoua | B. Ines | B. Meriem | B. Mouna |
 
 ## Description synthétique du projet
 
 **Problématique :** 
+Comment créer un modèle de simulation réaliste du trafic aérien?
 
 **Hypothèse principale :**
+
 
 **Hypothèses secondaires :** 
 
