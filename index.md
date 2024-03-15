@@ -18,10 +18,6 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 **Problématique :** 
 Comment créer un modèle de simulation réaliste du trafic aérien?
 
-**Hypothèse principale :**
-
-
-**Hypothèses secondaires :** 
 
 **Objectifs :**
 
