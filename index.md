@@ -18,17 +18,17 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 
 ## Compte rendu : ##
 
-[Semaine 1] (https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine1.md)
+[Semaine 1](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine1.md)
 
-[Semaine 2] (https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine2.md)
+[Semaine 2](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine2.md)
 
-[Semaine 3] (https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine3.md)
+[Semaine 3](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine3.md)
 
-[Semaine 4] (https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine4.md) 
+[Semaine 4](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine4.md) 
 
-[Semaine 5] (https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine5.md)
+[Semaine 5](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine5.md)
 
-[Semaine 6] (https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine.6.md)
+[Semaine 6](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine.6.md)
 
 [Dernière semaine]
 
