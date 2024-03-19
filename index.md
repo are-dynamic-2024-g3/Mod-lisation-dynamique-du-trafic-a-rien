@@ -1,5 +1,9 @@
 # MODÉLISATION DYNAMIQUE DU TRAFIC AÉRIEN
 
+![image](https://media.lesechos.com/api/v1/images/view/61df33113e45460b10254224/1280x720/070727865924-web-tete.jpg)
+
+## Description du projet : ##
+
 Le projet dynamique sur le trafic aérien vise à étudier les facteurs influençant les retards des avions, la capacité d'acceuil des aéroports, la tendance des vols, ainsi que la modélisation de la gestion des déplacements des avions à l'aide de fonctions
 sur Jupyter notebook.
 
@@ -7,19 +11,21 @@ sur Jupyter notebook.
 
 The dynamic air traffic project aims to study the factors influencing aircraft delays, airport handling capacity, flight trends, as well as modeling aircraft movement management using functions on Jupyter notebook.
 
-## Présentation de l'équipe
+## Règles de la modélisation :
+#### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons un seul aéroport 
 
-|(^_^)| (づ｡◕‿‿◕｡)づ |(>_<) | (＾▽＾) |
-|-----|--|--|--|
-| H. Takoua | B. Ines | B. Meriem | B. Mouna |
++ On estime qu'un avion est en retard s'il décolle au moins 30 minutes après l'heure prévue de décollage.
 
-## Description synthétique du projet
+## Membres du groupe : ##
 
-**Problématique :** 
-Comment créer un modèle de simulation réaliste du trafic aérien?
++ Hadj Ali Takoua
+hadjalitakwa7@gmail.com
 
++ Bouchibene  Ines 
+inesbouchibane.de@gmail.com
+ 
++ Berah Meriem 
+meriembrh6@gmail.com
 
-**Objectifs :**
-
-**Critère(s) d'évaluation :**
-
++ Bahamid Mouna 
+ mounabahamid10@gmail.com
