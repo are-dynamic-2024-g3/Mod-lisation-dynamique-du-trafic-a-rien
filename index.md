@@ -4,8 +4,7 @@
 
 ## Description du projet : ##
 
-Le projet dynamique sur le trafic aérien vise à étudier les facteurs influençant les retards des avions, la capacité d'acceuil des aéroports, la tendance des vols, ainsi que la modélisation de la gestion des déplacements des avions à l'aide de fonctions
-sur Jupyter notebook.
+Le projet dynamique sur le trafic aérien vise à étudier les facteurs influençant les retards des avions, la capacité d'acceuil des aéroports, la tendance des vols. Nous pourrons ensuite atteindre notre objectif principal qui est de modéliser les déplacements des avions en fonction des facteurs précédents. Et cela à l'aide de fonctions sur Jupyter notebook.
 
 ## DYNAMIC MODELING OF AIR TRAFFIC
 
