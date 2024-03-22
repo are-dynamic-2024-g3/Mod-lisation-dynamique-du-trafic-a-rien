@@ -8,8 +8,24 @@ Dans un registre plus concret, notre exploration du trafic aérien s'est poursui
 
 La fonction ci-dessous "analyse_tendance_voyages", génère aléatoirement une tendance (en hausse, en baisse ou stable) pour les voyages en se basant sur les données fournies.
 
-def analyse_tendance_voyages(donnees):
 
     tendances = ["en hausse", "en baisse", "stable"]
     tendance = random.choice(tendances)
     return tendance
+
+
+Cette fonction Python, "predire_retards_par_saisons", modifie aléatoirement les retards initiaux pour chaque saison, puis prédit les retards ajustés en fonction de ces modifications. Elle illustre ensuite ces prédictions à l'aide d'un diagramme à barres, représentant les variations des retards selon les saisons.
+
+    return [retard + random.randint(-10, 10) for retard in retards]
+   
+saisons = ["hiver", "printemps", "été", "automne"]
+retards = [10, 15, 20, 12]
+predictions = predire_retards_par_saisons(saisons, retards)
+print("Prédictions de retards par rapport aux saisons :", predictions)
+
+plt.figure(figsize=(8, 6))
+plt.bar(saisons, predictions, color='skyblue')
+plt.title('Prédictions de retards par rapport aux saisons')
+plt.xlabel('Saisons')
+plt.ylabel('Retards')
+plt.show()
