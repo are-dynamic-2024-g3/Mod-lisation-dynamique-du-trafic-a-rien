@@ -2,7 +2,7 @@
 
 ![image](https://media.lesechos.com/api/v1/images/view/61df33113e45460b10254224/1280x720/070727865924-web-tete.jpg)
 
-## Description du projet : ##
+## Description du projet :
 
 Le projet dynamique sur le trafic aérien vise à étudier les facteurs influençant les retards des avions, la capacité d'acceuil des aéroports, la tendance des vols. Nous pourrons ensuite atteindre notre objectif principal qui est de modéliser les déplacements des avions en fonction des facteurs précédents. Et cela à l'aide de fonctions sur Jupyter notebook.
 
@@ -14,6 +14,7 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 #### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons un seul aéroport 
 
 + On estime qu'un avion est en retard s'il décolle au moins 30 minutes après l'heure prévue de décollage.
++ On estime que la capacité de l'aéroport est égale à 30 avion.
 
 ## Compte rendu : ##
 
