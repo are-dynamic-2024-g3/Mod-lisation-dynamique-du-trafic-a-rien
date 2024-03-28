@@ -1,4 +1,4 @@
-# Compte rendu de la semaine 2
+# Compte rendu de la semaine 3
 
 Et... Bien le bonsoir la compagnie!! Nous on est ON FIRE! le projet avance à grands pas mais ne vendons pas la peau de l'ours, il nous reste énormément de travail. Que diriez-vous maintenant de jetter un oeil sur le résumé de cet avancement?
 
