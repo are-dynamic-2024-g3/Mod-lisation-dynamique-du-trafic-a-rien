@@ -16,4 +16,4 @@ La fonction ci-dessous "analyse_tendance_voyages", génère aléatoirement une t
 
 Cette fonction Python, "predire_retards_par_saisons", modifie aléatoirement les retards initiaux pour chaque saison, puis prédit les retards ajustés en fonction de ces modifications. Elle illustre ensuite ces prédictions à l'aide d'un diagramme à barres, représentant les variations des retards selon les saisons.
 
-![image]
+![image](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien.github.io/blob/main/graph.jpeg)
