@@ -34,14 +34,10 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 
 ## Membres du groupe : ##
 
-+ Hadj Ali Takoua
-hadjalitakwa7@gmail.com
++ [Hadj Ali Takoua](hadjalitakwa7@gmail.com)
 
-+ Bouchibene  Ines 
-inesbouchibane.de@gmail.com
++ [Bouchibene  Ines](inesbouchibane.de@gmail.com)
  
-+ Berah Meriem 
-meriembrh6@gmail.com
++ [Berah Meriem](meriembrh6@gmail.com)
 
-+ Bahamid Mouna 
- mounabahamid10@gmail.com
++ [Bahamid Mouna](mounabahamid10@gmail.com)
