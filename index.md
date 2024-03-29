@@ -1,6 +1,6 @@
  <HTML>
    <BODY>
-       <h1>MODÉLISATION DYNAMIQUE DU TRAFIC AÉRIEN</h1>                      
+       <h1 align="center" color="yellow">MODÉLISATION DYNAMIQUE DU TRAFIC AÉRIEN</h1>                      
    </BODY>
    </HTML>
 
