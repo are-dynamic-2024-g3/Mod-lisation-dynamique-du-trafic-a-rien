@@ -39,7 +39,7 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 ## Membres du groupe : ## 
  <HTML>
    <BODY>
- <label for="email">hadjalitakwa7@gmail.com </label>   
+ <label for="email">hadjalitakwa7@gmail.com</label>   
     
  <label for="email">inesbouchibane.de@gmail.com</label>
 
