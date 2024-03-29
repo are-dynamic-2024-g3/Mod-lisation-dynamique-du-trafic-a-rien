@@ -1,5 +1,5 @@
  <HTML>
-   <BODY backgound-color="yellow">
+   <BODY>
        <h1 align="center">MODÉLISATION DYNAMIQUE DU TRAFIC AÉRIEN</h1>
     
    </BODY>
