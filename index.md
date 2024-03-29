@@ -30,7 +30,6 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 
 [Semaine 6](https://github.com/are-dynamic-2024-g3/Modelisation-dynamique-du-trafic-aerien/blob/main/semaine.6.md)
 
-[Dernière semaine]
 
 ## Membres du groupe : ## 
 
