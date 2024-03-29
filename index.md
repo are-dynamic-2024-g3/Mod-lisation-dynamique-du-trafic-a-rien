@@ -14,7 +14,7 @@ The dynamic air traffic project aims to study the factors influencing aircraft d
 #### Pour cette Modélisation, afin de faciliter le modèle d’étude, nous nous concentrerons un seul aéroport 
 
 + On estime qu'un avion est en retard s'il décolle au moins 30 minutes après l'heure prévue de décollage.
-+ On estime que la capacité de l'aéroport est égale à 30 avion.
++ On suppose que la capacité de l'aéroport reste constante indépendamment des saisons.
 
 ## Compte rendu : ##
 
