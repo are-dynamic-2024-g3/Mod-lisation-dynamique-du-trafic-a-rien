@@ -9,7 +9,7 @@
             background-color: beige;
             font-family: Arial, sans-serif;
             margin: 0;
-            padding: 0,
+            padding: 0;
         }
 
         h1, h2 {
