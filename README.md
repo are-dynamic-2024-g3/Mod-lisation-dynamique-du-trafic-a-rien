@@ -4,7 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Modélisation Dynamique du Trafic Aérien</title>
-    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            background-color: beige;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        h1, h2 {
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
     <h1>MODÉLISATION DYNAMIQUE DU TRAFIC AÉRIEN</h1>
@@ -38,3 +58,5 @@
     </ul>
 </body>
 </html>
+
+
