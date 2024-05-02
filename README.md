@@ -1,60 +1,28 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modélisation Dynamique du Trafic Aérien</title>
-    <style>
-        body {
-            background-color: beige;
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
+# Modélisation Dynamique du Trafic Aérien
 
-        h1, h2 {
-            text-align: center;
-            text-decoration: underline;
-        }
+![Trafic Aérien](https://media.giphy.com/media/Yzdei1vPBjm0g/giphy.gif)
 
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-            height: auto;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-    <h1>MODÉLISATION DYNAMIQUE DU TRAFIC AÉRIEN</h1>
-    <p><img src="https://media.giphy.com/media/Yzdei1vPBjm0g/giphy.gif" alt="Trafic Aérien"></p>
-    
-    <h2>Description du projet :</h2>
-    <p>Le projet dynamique sur le trafic aérien vise à étudier les facteurs influençant les retards des avions, la capacité d'accueil des aéroports, la tendance des vols. Nous pourrons ensuite atteindre notre objectif principal qui est de modéliser les déplacements des avions en fonction des facteurs précédents. Et cela à l'aide de fonctions sur Jupyter notebook.</p>
+## Description du projet :
 
-    <h2>Règles de la modélisation :</h2>
-    <ul>
-        <li>On estime qu'un avion est en retard s'il décolle au moins 30 minutes après l'heure prévue de décollage.</li>
-        <li>On suppose que la capacité de l'aéroport reste constante indépendamment des saisons.</li>
-    </ul>
+Le projet dynamique sur le trafic aérien vise à étudier les facteurs influençant les retards des avions, la capacité d'accueil des aéroports, la tendance des vols. Nous pourrons ensuite atteindre notre objectif principal qui est de modéliser les déplacements des avions en fonction des facteurs précédents. Et cela à l'aide de fonctions sur Jupyter notebook.
 
-    <h2>Compte rendu :</h2>
-    <ul>
-        <li><a href="semaine1.md">Semaine 1</a></li>
-        <li><a href="semaine2.md">Semaine 2</a></li>
-        <li><a href="semaine3.md">Semaine 3</a></li>
-        <li><a href="semaine4.md">Semaine 4</a></li>
-        <li><a href="semaine5.md">Semaine 5</a></li>
-        <li><a href="semaine6.md">Semaine 6</a></li>
-    </ul>
+## Règles de la modélisation :
 
-    <h2>Membres du groupe :</h2>
-    <ul>
-        <li>hadjalitakwa7@gmail.com</li>
-        <li>inesbouchibane.de@gmail.com</li>
-        <li>meriembrh6@gmail.com</li>
-        <li>mounabahamid10@gmail.com</li>
-    </ul>
-</body>
-</html>
+- On estime qu'un avion est en retard s'il décolle au moins 30 minutes après l'heure prévue de décollage.
+- On suppose que la capacité de l'aéroport reste constante indépendamment des saisons.
+
+## Compte rendu :
+
+- [Semaine 1](semaine1.md)
+- [Semaine 2](semaine2.md)
+- [Semaine 3](semaine3.md)
+- [Semaine 4](semaine4.md)
+- [Semaine 5](semaine5.md)
+- [Semaine 6](semaine6.md)
+
+## Membres du groupe :
+
+- hadjalitakwa7@gmail.com
+- inesbouchibane.de@gmail.com
+- meriembrh6@gmail.com
+- mounabahamid10@gmail.com
